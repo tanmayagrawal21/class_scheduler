@@ -21,3 +21,6 @@ urlpatterns = [
     path('teachers/', include("teachers.urls")),
     path('students/', include('students.urls'))
 ]
+admin.site.site_header = "Welcome to The Lockdown Project Admin Portal"
+admin.site.site_title = "TLP Admin Portal"
+admin.site.index_title = "TLP Admin Portal"

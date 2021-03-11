@@ -25,7 +25,7 @@ SECRET_KEY = '$+5k+dx$53=1q1wjvlm2nxfl+66hdr^i7n*43$f(+q1&2m(z)+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['tlp.pythonanywhere.com','127.0.0.1']
 
 
 # Application definition
@@ -120,3 +120,5 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
 STATIC_URL = '/static/'
+
+STATIC_ROOT='/home/tlp/django_todo_app/static'
