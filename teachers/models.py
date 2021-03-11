@@ -31,3 +31,4 @@ class Schedule(models.Model):
 
     def __str__(self):
         return f"{self.teacher}      {self.day}      {self.time}"
+
