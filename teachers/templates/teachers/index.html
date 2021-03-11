@@ -1,0 +1,8 @@
+{% extends "teachers/layout.html" %}
+
+{%block body%}
+    <h1>Our Teachers</h1>
+    {% for teacher in teachers %}
+        {{teacher}}
+    {% endfor %}
+{% endblock %}
