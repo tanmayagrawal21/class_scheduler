@@ -24,7 +24,7 @@ class Student(models.Model):
     board= models.CharField(max_length=64)
     
     def __str__(self):
-        return f"{self.first} {self.last}"
+        return f"{self.first} {self.last} ({self.standard} {self.board})"
 
 
 
