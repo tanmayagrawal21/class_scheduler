@@ -5,4 +5,4 @@ To know more about The Lockdown Project, you can visit: https://www.thelockdownp
 
 Deployed Version of this project: https://tlp.pythonanywhere.com/ (Currently under development, but you can still open /teachers and /admin)
 
-<h2> NOTE: This version of the project has been taken down and replaced by a newer, better designed version. The source code for the newer version can be found at https://github.com/tanmayagrawal21/class_scheduler_v2 </h2>
+<b> NOTE: This version of the project has been taken down and replaced by a newer, better designed version. The source code for the newer version can be found at https://github.com/tanmayagrawal21/class_scheduler_v2 </b>
